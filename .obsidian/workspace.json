@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "9be245daa2a71c43",
+    "type": "split",
+    "children": [
+      {
+        "id": "3df3fde205384bc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eb569c1e9653f27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обучение/Заметки/JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ea18942b7309f83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обучение/GIT/Шпаргалка из 1-го спринта.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c88d07ca417845d",
+    "type": "split",
+    "children": [
+      {
+        "id": "647b04747ace1b94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "148809d2fa2fd325",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4dad358d55bb9c08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8714133a93eb159",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94b64a810cddbb68",
+    "type": "split",
+    "children": [
+      {
+        "id": "e45d3a6b625a20ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e9b126d9fcce262",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Обучение/GIT/Шпаргалка из 1-го спринта.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b980bc1f5c18367a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Обучение/GIT/Шпаргалка из 1-го спринта.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6743e3d374f5c380",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5228f6359b80c0de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Обучение/GIT/Шпаргалка из 1-го спринта.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "8ea18942b7309f83",
+  "lastOpenFiles": [
+    "Обучение/Заметки/Git ссылки.md",
+    "Обучение/2023-02-07.md",
+    "Обучение/Гайд от CSS трюки с позиционированием.md",
+    "Обучение/Java Script/Alert, консоль, подключение JS к странице.md",
+    "Обучение/Заметки/JS.md",
+    "[Alert, консоль, подключение JS к странице.md",
+    "Обучение/Java Script/Реакция на действия пользователя. События.md",
+    "Обучение/Java Script/Функции определение и вызов.md",
+    "Обучение/Java Script/Управление содержимым свойства innerHTML и textContent.md",
+    "Обучение/Java Script/Манипуляции с классами CSS.md",
+    "Обучение/Java Script/Атрибуты и их методы.md",
+    "Обучение/Java Script/DOM  выбор элементов.md",
+    "Обучение/Java Script/Числа и специальные числовые значения.md",
+    "Обучение/Java Script/Строки.md",
+    "Обучение/Java Script/Два одиноких типа данных. undefined и null.md",
+    "Обучение/Java Script/Примитивные типы данных. Оператор typeof.md",
+    "Обучение/Java Script/Объекты.md",
+    "Обучение/Java Script/Циклы for, while, do...while.md",
+    "Обучение/Java Script/Массивы, создание, доступ по индексу, длина массива.md",
+    "Обучение/Java Script/Условия, больше-меньше, булевы операции.md",
+    "Обучение/Java Script/Переменные, типы переменных.md",
+    "Обучение/Java Script/Строки, конкатенация, приведение числа к строке.md",
+    "Обучение/Java Script/Числа, операции с числами.md"
+  ]
+}

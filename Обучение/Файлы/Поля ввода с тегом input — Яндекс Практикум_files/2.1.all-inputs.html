@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<!-- saved from url=(0094)https://code.s3.yandex.net/web-developer/widgets/forms-theme-inputs/inputs/2.1.all-inputs.html -->
+<html lang="ru"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Инпуты</title>
+  <link rel="stylesheet" href="./index.css">
+  <link href="./atelier-heath-dark.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+  <div class="root">
+    <div class="header">
+      <div class="header__block">
+        <h1 class="header__title">Код</h1>
+      </div>
+      <div class="header__block">
+        <h1 class="header__title header__title_position_last">Пример</h1>
+      </div>
+    </div>
+    <div class="content">
+      <div class="code">
+        <pre><code class="html code__block code__block_order_first hljs xml">
+<span class="hljs-tag"><span class="hljs-tag">&lt;</span><span class="hljs-name"><span class="hljs-tag"><span class="hljs-name">input</span></span></span><span class="hljs-tag"> </span><span class="hljs-attr"><span class="hljs-tag"><span class="hljs-attr">type</span></span></span><span class="hljs-tag">=</span><span class="hljs-string"><span class="hljs-tag"><span class="hljs-string">"text"</span></span></span><span class="hljs-tag">&gt;</span></span>
+<span class="hljs-comment"><span class="hljs-comment">&lt;!-- для текста --&gt;</span></span>
+        </code></pre>
+      </div>
+      <div class="example example_order_first">
+        <input class="example__input " type="text">
+      </div>
+      <div class="code">
+        <pre><code class="html code__block hljs xml">
+<span class="hljs-tag"><span class="hljs-tag">&lt;</span><span class="hljs-name"><span class="hljs-tag"><span class="hljs-name">input</span></span></span><span class="hljs-tag"> </span><span class="hljs-attr"><span class="hljs-tag"><span class="hljs-attr">type</span></span></span><span class="hljs-tag">=</span><span class="hljs-string"><span class="hljs-tag"><span class="hljs-string">"number"</span></span></span><span class="hljs-tag">&gt;</span></span>
+<span class="hljs-comment"><span class="hljs-comment">&lt;!-- для чисел.На мобильном
+устройстве вместо стандартной
+будет вызвана клавиатура с
+цифрами, как на кнопочном
+телефоне --&gt;</span></span>
+        </code></pre>
+      </div>
+      <div class="example">
+        <input class="example__input" type="number">
+      </div>
+      <div class="code">
+        <pre><code class="html code__block hljs xml">
+<span class="hljs-tag"><span class="hljs-tag">&lt;</span><span class="hljs-name"><span class="hljs-tag"><span class="hljs-name">input</span></span></span><span class="hljs-tag"> </span><span class="hljs-attr"><span class="hljs-tag"><span class="hljs-attr">type</span></span></span><span class="hljs-tag">=</span><span class="hljs-string"><span class="hljs-tag"><span class="hljs-string">"email"</span></span></span><span class="hljs-tag">&gt;</span></span>
+<span class="hljs-comment"><span class="hljs-comment">&lt;!-- для электронной почты.
+Браузер проверяет, есть ли в этом
+поле точка и @ («коммерческое “эт”»)
+— обязательные символы для
+доменного имени. --&gt;</span></span>
+        </code></pre>
+      </div>
+      <div class="example">
+          <input class="example__input" type="email">
+      </div>
+      <div class="code">
+        <pre><code class="html code__block hljs xml">
+<span class="hljs-tag"><span class="hljs-tag">&lt;</span><span class="hljs-name"><span class="hljs-tag"><span class="hljs-name">input</span></span></span><span class="hljs-tag"> </span><span class="hljs-attr"><span class="hljs-tag"><span class="hljs-attr">type</span></span></span><span class="hljs-tag">=</span><span class="hljs-string"><span class="hljs-tag"><span class="hljs-string">"password"</span></span></span><span class="hljs-tag">&gt;</span></span>
+<span class="hljs-comment"><span class="hljs-comment">&lt;!-- для паролей. Вместо символов
+отображаются звездочки
+или точки  --&gt;</span></span>
+        </code></pre>
+      </div>
+      <div class="example">
+        <input class="example__input" type="password">
+      </div>
+      <div class="code">
+        <pre><code class="html code__block hljs xml">
+<span class="hljs-tag"><span class="hljs-tag">&lt;</span><span class="hljs-name"><span class="hljs-tag"><span class="hljs-name">input</span></span></span><span class="hljs-tag"> </span><span class="hljs-attr"><span class="hljs-tag"><span class="hljs-attr">type</span></span></span><span class="hljs-tag">=</span><span class="hljs-string"><span class="hljs-tag"><span class="hljs-string">"tel"</span></span></span><span class="hljs-tag">&gt;</span></span>
+<span class="hljs-comment"><span class="hljs-comment">&lt;!-- для номеров телефонов.
+Отобразится цифровая клавиатура,
+как и для number --&gt;</span></span>
+        </code></pre>
+      </div>
+      <div class="example">
+        <input class="example__input" type="tel">
+      </div>
+      <div class="code">
+        <pre><code class="html code__block hljs xml">
+<span class="hljs-tag"><span class="hljs-tag">&lt;</span><span class="hljs-name"><span class="hljs-tag"><span class="hljs-name">input</span></span></span><span class="hljs-tag"> </span><span class="hljs-attr"><span class="hljs-tag"><span class="hljs-attr">type</span></span></span><span class="hljs-tag">=</span><span class="hljs-string"><span class="hljs-tag"><span class="hljs-string">"url"</span></span></span><span class="hljs-tag">&gt;</span></span>
+<span class="hljs-comment"><span class="hljs-comment">&lt;!-- для адреса сайта --&gt;</span></span>
+        </code></pre>
+      </div>
+      <div class="example">
+        <input class="example__input" type="url">
+      </div><div class="code">
+        <pre><code class="html code__block hljs xml">
+<span class="hljs-tag"><span class="hljs-tag">&lt;</span><span class="hljs-name"><span class="hljs-tag"><span class="hljs-name">input</span></span></span><span class="hljs-tag"> </span><span class="hljs-attr"><span class="hljs-tag"><span class="hljs-attr">type</span></span></span><span class="hljs-tag">=</span><span class="hljs-string"><span class="hljs-tag"><span class="hljs-string">"color"</span></span></span><span class="hljs-tag">&gt;</span></span>
+<span class="hljs-comment"><span class="hljs-comment">&lt;!-- для интерфейса выбора цвета.
+В разных браузерах
+может отображаться по-разному. --&gt;</span></span>
+        </code></pre>
+      </div><div class="example">
+          <input class="example__input example__input_type_color" type="color">
+      </div>
+      <div class="code">
+        <pre><code class="html code__block hljs xml">
+<span class="hljs-tag"><span class="hljs-tag">&lt;</span><span class="hljs-name"><span class="hljs-tag"><span class="hljs-name">input</span></span></span><span class="hljs-tag"> </span><span class="hljs-attr"><span class="hljs-tag"><span class="hljs-attr">type</span></span></span><span class="hljs-tag">=</span><span class="hljs-string"><span class="hljs-tag"><span class="hljs-string">"range"</span></span></span><span class="hljs-tag">&gt;</span></span>
+<span class="hljs-comment"><span class="hljs-comment">&lt;!-- создает "ползунок",
+который можно двигать от
+максимального до минимального
+значения.--&gt;</span></span>
+        </code></pre>
+      </div>
+      <div class="example">
+          <input class="example__input example__input_type_range" type="range">
+      </div>
+    </div>
+    <pre><code class="html code__block code__block_align_center hljs xml">
+<span class="hljs-comment"><span class="hljs-comment">&lt;!-- Поля ввода для указания времени и даты: --&gt;</span></span>
+    </code></pre>
+    <div class="content">
+        <div class="code">
+          <pre><code class="html code__block hljs xml">
+<span class="hljs-tag"><span class="hljs-tag">&lt;</span><span class="hljs-name"><span class="hljs-tag"><span class="hljs-name">input</span></span></span><span class="hljs-tag"> </span><span class="hljs-attr"><span class="hljs-tag"><span class="hljs-attr">type</span></span></span><span class="hljs-tag">=</span><span class="hljs-string"><span class="hljs-tag"><span class="hljs-string">"date"</span></span></span><span class="hljs-tag">&gt;</span></span>
+<span class="hljs-comment"><span class="hljs-comment">&lt;!-- дата без времени:
+07/03/2009  --&gt;</span></span>
+          </code></pre>
+        </div>
+      <div class="example">
+        <input class="example__input" type="date">
+      </div>
+      <div class="code">
+        <pre><code class="html code__block hljs xml">
+<span class="hljs-tag"><span class="hljs-tag">&lt;</span><span class="hljs-name"><span class="hljs-tag"><span class="hljs-name">input</span></span></span><span class="hljs-tag"> </span><span class="hljs-attr"><span class="hljs-tag"><span class="hljs-attr">type</span></span></span><span class="hljs-tag">=</span><span class="hljs-string"><span class="hljs-tag"><span class="hljs-string">"datetime-local"</span></span></span><span class="hljs-tag">&gt;</span></span>
+<span class="hljs-comment"><span class="hljs-comment">&lt;!-- дата со временем:
+04/10/1957 22:28 --&gt;</span></span>
+        </code></pre>
+      </div>
+      <div class="example">
+        <input class="example__input" type="datetime-local">
+      </div>
+      <div class="code">
+        <pre><code class="html code__block hljs xml">
+<span class="hljs-tag"><span class="hljs-tag">&lt;</span><span class="hljs-name"><span class="hljs-tag"><span class="hljs-name">input</span></span></span><span class="hljs-tag"> </span><span class="hljs-attr"><span class="hljs-tag"><span class="hljs-attr">type</span></span></span><span class="hljs-tag">=</span><span class="hljs-string"><span class="hljs-tag"><span class="hljs-string">"month"</span></span></span><span class="hljs-tag">&gt;</span></span>
+<span class="hljs-comment"><span class="hljs-comment">&lt;!-- месяц и год: 1988-11 --&gt;</span></span>
+        </code></pre>
+      </div>
+      <div class="example">
+        <input class="example__input" type="month">
+      </div>
+      <div class="code">
+        <pre><code class="html code__block hljs xml">
+<span class="hljs-tag"><span class="hljs-tag">&lt;</span><span class="hljs-name"><span class="hljs-tag"><span class="hljs-name">input</span></span></span><span class="hljs-tag"> </span><span class="hljs-attr"><span class="hljs-tag"><span class="hljs-attr">type</span></span></span><span class="hljs-tag">=</span><span class="hljs-string"><span class="hljs-tag"><span class="hljs-string">"week"</span></span></span><span class="hljs-tag">&gt;</span></span>
+<span class="hljs-comment"><span class="hljs-comment">&lt;!-- неделя и год: 2018-W45 --&gt;</span></span>
+        </code></pre>
+      </div>
+      <div class="example">
+        <input class="example__input" type="week">
+      </div>
+      <div class="code">
+        <pre><code class="html code__block code__block_order_last hljs xml">
+<span class="hljs-tag"><span class="hljs-tag">&lt;</span><span class="hljs-name"><span class="hljs-tag"><span class="hljs-name">input</span></span></span><span class="hljs-tag"> </span><span class="hljs-attr"><span class="hljs-tag"><span class="hljs-attr">type</span></span></span><span class="hljs-tag">=</span><span class="hljs-string"><span class="hljs-tag"><span class="hljs-string">"time"</span></span></span><span class="hljs-tag">&gt;</span></span>
+<span class="hljs-comment"><span class="hljs-comment">&lt;!-- время: 03:14 --&gt;</span></span>
+        </code></pre>
+      </div>
+      <div class="example example_order_last">
+        <input class="example__input" type="time">
+      </div>
+    </div>
+  </div>
+
+  <script src="./highlight.pack.js" type="text/javascript"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  <script src="./script.js"></script>
+
+
+
+</body></html>
