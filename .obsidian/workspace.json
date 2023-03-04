@@ -8,31 +8,139 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3eb569c1e9653f27",
+            "id": "418673fd87b64679",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Обучение/Заметки/JS.md",
+                "file": "Обучение/Заметки/JS из первого спринта.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8ea18942b7309f83",
+            "id": "c0d315a8fe007da0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Обучение/GIT/Шпаргалка из 1-го спринта.md",
-                "mode": "preview",
+                "file": "Обучение/Заметки/JS из первого спринта.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b162bb1dc6ee27ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обучение/Заметки/JS из первого спринта.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20c64a719f11c9be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обучение/Заметки/JS из первого спринта.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49874a4e97ff32b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обучение/Заметки/JS из первого спринта.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f5fa1921c8f76f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обучение/Заметки/Git ссылки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e3151f4f0ee9038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обучение/Заметки/Git ссылки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4236aa3fadceae4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обучение/Заметки/Git ссылки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c433d761e20f32b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обучение/Заметки/Git ссылки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7824198698c72605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обучение/Заметки/Git ссылки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "993be2e4fee1a9d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обучение/Заметки/Дока.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -98,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Обучение/GIT/Шпаргалка из 1-го спринта.md",
+                "file": "Обучение/Заметки/Дока.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Обучение/GIT/Шпаргалка из 1-го спринта.md",
+                "file": "Обучение/Заметки/Дока.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Обучение/GIT/Шпаргалка из 1-го спринта.md"
+                "file": "Обучение/Заметки/Дока.md"
               }
             }
           }
@@ -159,30 +267,33 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8ea18942b7309f83",
+  "active": "993be2e4fee1a9d3",
   "lastOpenFiles": [
+    "Обучение/Дока/Дока из 4го спринта.md",
     "Обучение/Заметки/Git ссылки.md",
+    "Обучение/GIT/Шпаргалка из 4го спринта.md",
+    "Обучение/GIT/Шпаргалка из 3го спринта Ветки в Git.md",
+    "Обучение/GIT/Прячем незакоммиченные изменения.md",
+    "Обучение/GIT/Идеальный коммит.md",
+    "Обучение/GIT/Без названия 1.md",
+    "Обучение/GIT/Отмена слияния веток.md",
+    "Обучение/GIT/Конфликты в Git.md",
+    "Обучение/Заметки/Grid ссылки.md",
+    "Обучение/GIT/Слияние.md",
+    "Обучение/GIT/Ветки.md",
+    "Обучение/Заметки/JS из первого спринта.md",
+    "Обучение/Java Script/Отладка через debugger.md",
+    "Обучение/Java Script/Поиск документации.md",
+    "Обучение/Java Script/Логические ошибки и console.log.md",
+    "Обучение/Java Script/Типы ошибок.md",
+    "Обучение/Java Script/Как читать ошибки.md",
+    "Обучение/Java Script/Управление содержимым свойства innerHTML и textContent.md",
+    "Обучение/Java Script/Реакция на действия пользователя. События.md",
+    "Обучение/Java Script/Другие полезные свойства элементов.md",
+    "Обучение/Java Script/Гибкая вставка  методы insertAdjacentHTML и insertAdjacentText.md",
+    "Обучение/GIT/Шпаргалка из 1-го спринта.md",
     "Обучение/2023-02-07.md",
     "Обучение/Гайд от CSS трюки с позиционированием.md",
-    "Обучение/Java Script/Alert, консоль, подключение JS к странице.md",
-    "Обучение/Заметки/JS.md",
-    "[Alert, консоль, подключение JS к странице.md",
-    "Обучение/Java Script/Реакция на действия пользователя. События.md",
-    "Обучение/Java Script/Функции определение и вызов.md",
-    "Обучение/Java Script/Управление содержимым свойства innerHTML и textContent.md",
-    "Обучение/Java Script/Манипуляции с классами CSS.md",
-    "Обучение/Java Script/Атрибуты и их методы.md",
-    "Обучение/Java Script/DOM  выбор элементов.md",
-    "Обучение/Java Script/Числа и специальные числовые значения.md",
-    "Обучение/Java Script/Строки.md",
-    "Обучение/Java Script/Два одиноких типа данных. undefined и null.md",
-    "Обучение/Java Script/Примитивные типы данных. Оператор typeof.md",
-    "Обучение/Java Script/Объекты.md",
-    "Обучение/Java Script/Циклы for, while, do...while.md",
-    "Обучение/Java Script/Массивы, создание, доступ по индексу, длина массива.md",
-    "Обучение/Java Script/Условия, больше-меньше, булевы операции.md",
-    "Обучение/Java Script/Переменные, типы переменных.md",
-    "Обучение/Java Script/Строки, конкатенация, приведение числа к строке.md",
-    "Обучение/Java Script/Числа, операции с числами.md"
+    "Обучение/Java Script/Alert, консоль, подключение JS к странице.md"
   ]
 }
