@@ -4,143 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "3df3fde205384bc5",
+        "id": "5e942c5e897da767",
         "type": "tabs",
         "children": [
           {
-            "id": "418673fd87b64679",
+            "id": "064ddb315bbd9a32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Обучение/Заметки/JS из первого спринта.md",
+                "file": "Обучение/Заметки/Js из второго спринта.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c0d315a8fe007da0",
+            "id": "8f994e1955415e20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Обучение/Заметки/JS из первого спринта.md",
+                "file": "Обучение/Заметки/Js из второго спринта.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b162bb1dc6ee27ae",
+            "id": "73cbe17e0af54827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Обучение/Заметки/JS из первого спринта.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20c64a719f11c9be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Обучение/Заметки/JS из первого спринта.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49874a4e97ff32b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Обучение/Заметки/JS из первого спринта.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f5fa1921c8f76f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Обучение/Заметки/Git ссылки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e3151f4f0ee9038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Обучение/Заметки/Git ссылки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4236aa3fadceae4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Обучение/Заметки/Git ссылки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c433d761e20f32b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Обучение/Заметки/Git ссылки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7824198698c72605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Обучение/Заметки/Git ссылки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "993be2e4fee1a9d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Обучение/Заметки/Дока.md",
+                "file": "Обучение/Заметки/Js из второго спринта.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313.5
   },
   "right": {
     "id": "94b64a810cddbb68",
@@ -206,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Обучение/Заметки/Дока.md",
+                "file": "Обучение/Заметки/Js из второго спринта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Обучение/Заметки/Дока.md",
+                "file": "Обучение/Заметки/Js из второго спринта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Обучение/Заметки/Дока.md"
+                "file": "Обучение/Заметки/Js из второго спринта.md"
               }
             }
           }
@@ -267,33 +171,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "993be2e4fee1a9d3",
+  "active": "73cbe17e0af54827",
   "lastOpenFiles": [
-    "Обучение/Дока/Дока из 4го спринта.md",
-    "Обучение/Заметки/Git ссылки.md",
-    "Обучение/GIT/Шпаргалка из 4го спринта.md",
-    "Обучение/GIT/Шпаргалка из 3го спринта Ветки в Git.md",
-    "Обучение/GIT/Прячем незакоммиченные изменения.md",
-    "Обучение/GIT/Идеальный коммит.md",
-    "Обучение/GIT/Без названия 1.md",
-    "Обучение/GIT/Отмена слияния веток.md",
-    "Обучение/GIT/Конфликты в Git.md",
-    "Обучение/Заметки/Grid ссылки.md",
-    "Обучение/GIT/Слияние.md",
-    "Обучение/GIT/Ветки.md",
-    "Обучение/Заметки/JS из первого спринта.md",
-    "Обучение/Java Script/Отладка через debugger.md",
-    "Обучение/Java Script/Поиск документации.md",
-    "Обучение/Java Script/Логические ошибки и console.log.md",
-    "Обучение/Java Script/Типы ошибок.md",
-    "Обучение/Java Script/Как читать ошибки.md",
-    "Обучение/Java Script/Управление содержимым свойства innerHTML и textContent.md",
-    "Обучение/Java Script/Реакция на действия пользователя. События.md",
-    "Обучение/Java Script/Другие полезные свойства элементов.md",
-    "Обучение/Java Script/Гибкая вставка  методы insertAdjacentHTML и insertAdjacentText.md",
+    "Обучение/Java Script/Методы some, every, find.md",
+    "Обучение/Заметки/Js из второго спринта.md",
+    "Обучение/Заметки/JS из первого спринта. Работа с DOM.md",
+    "Обучение/Java Script/Отбор элементов массива метод filter.md",
+    "Обучение/Java Script/Функции обратного вызова и их аргументы.md",
+    "Обучение/Java Script/Перебор массива. Методы forEach и map.md",
+    "Обучение/Java Script/Очень похожи на массивы, но не массивы. Коллекции в DOM.md",
+    "Обучение/Java Script/Родственные связи в DOM.md",
+    "Обучение/Java Script/Управление элементами на любых позициях.md",
+    "Обучение/Java Script/Добавление и удаление первого элемента.md",
+    "Обучение/Java Script/Объединение и преобразование в строку.md",
+    "Обучение/Java Script/Добавление и удаление последнего элемента.md",
+    "Обучение/Java Script/Объект event.md",
+    "Обучение/Java Script/template-элементы.md",
+    "Обучение/Java Script/Клонирование элементов.md",
+    "Обучение/Java Script/Удаление и перемещение элементов.md",
+    "Обучение/Java Script/Добавление элементов на страницу.md",
+    "Обучение/Java Script/Создание элементов  createElement и createTextNode.md",
+    "Обучение/Java Script/Атрибуты и их методы.md",
+    "Обучение/Java Script/Без названия",
     "Обучение/GIT/Шпаргалка из 1-го спринта.md",
-    "Обучение/2023-02-07.md",
-    "Обучение/Гайд от CSS трюки с позиционированием.md",
-    "Обучение/Java Script/Alert, консоль, подключение JS к странице.md"
+    "Обучение/Заметки/Git ссылки.md",
+    "Обучение/Java Script/let и const против var.md",
+    "Обучение/Java Script/Методы поиска в строке.md",
+    "Обучение/Java Script/Логическое ИЛИ.md",
+    "Обучение/Java Script/Оператор логическое И (&&).md",
+    "Обучение/Java Script/Явное преобразование типов.md"
   ]
 }
