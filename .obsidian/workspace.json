@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7f1396b041388d0e",
+        "id": "bd92722580c52d51",
         "type": "tabs",
         "children": [
           {
-            "id": "5a922b4df6c3ce68",
+            "id": "60daeb7e10547f59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Обучение/Заметки/Js из второго спринта.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22081a025748031d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Обучение/Заметки/Js из второго спринта.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "712cfb4113e27fca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Обучение/Java Script/Шпаргалка по методам массивов.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reduc",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Обучение/Java Script/Шпаргалка по методам массивов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Обучение/Java Script/Шпаргалка по методам массивов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Обучение/Java Script/Шпаргалка по методам массивов.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,34 +138,35 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "712cfb4113e27fca",
+  "active": "60daeb7e10547f59",
   "lastOpenFiles": [
-    "Обучение/Заметки/Js из второго спринта.md",
-    "Обучение/Java Script/Шпаргалка по методам массивов.md",
-    "Обучение/Java Script/Дополнительно императивное и декларативное программирование.md",
-    "Обучение/Java Script/Перебор массива. Методы forEach и map.md",
-    "Обучение/Java Script/Методы преобразования строк.md",
-    "Обучение/Java Script/Неявное преобразование типов.md",
-    "Обучение/Java Script/Управление элементами на любых позициях.md",
+    "Обучение/Заметки/ООП JS.md",
+    "Обучение/ООП JS/Полиморфизм.md",
+    "Обучение/ООП JS/Наследование.md",
+    "Обучение/ООП JS/Инкапсуляция.md",
+    "Обучение/ООП JS/Объекты в ООП.md",
+    "Обучение/ООП JS/Классы.md",
+    "Обучение/ООП JS/Краткое погружение в this.md",
+    "Обучение/ООП JS/Данные и функциональность вместе.md",
     "Обучение/Java Script/Сведение массива. Метод reduce.md",
-    "Обучение/Java Script/Методы some, every, find.md",
-    "Обучение/Java Script/Сортировка массива.md",
-    "Обучение/Java Script/Очень похожи на массивы, но не массивы. Коллекции в DOM.md",
-    "Обучение/Заметки/JS из первого спринта. Работа с DOM.md",
-    "Обучение/Java Script/Отбор элементов массива метод filter.md",
-    "Обучение/Java Script/Функции обратного вызова и их аргументы.md",
-    "Обучение/Java Script/Родственные связи в DOM.md",
-    "Обучение/Java Script/Добавление и удаление первого элемента.md",
-    "Обучение/Java Script/Объединение и преобразование в строку.md",
-    "Обучение/Java Script/Добавление и удаление последнего элемента.md",
-    "Обучение/Java Script/Объект event.md",
-    "Обучение/Java Script/template-элементы.md",
-    "Обучение/Java Script/Клонирование элементов.md",
+    "Обучение/ООП JS",
+    "Обучение/Java Script/Дополнительно императивное и декларативное программирование.md",
+    "Обучение/Java Script/Функции с неопределённым числом аргументов.md",
+    "Обучение/GIT/Слияние.md",
+    "Обучение/Заметки/Git ссылки.md",
+    "Обучение/Java Script/Явное преобразование типов.md",
+    "Обучение/Заметки/Js из третьего спринта.md",
+    "Обучение/Java Script/Пример валидации на практике.md",
+    "Обучение/Java Script/Взаимодействие с другими элементами DOM.md",
     "Обучение/Java Script/Удаление и перемещение элементов.md",
-    "Обучение/Java Script/Добавление элементов на страницу.md",
-    "Обучение/Java Script/Создание элементов  createElement и createTextNode.md",
-    "Обучение/Java Script/Атрибуты и их методы.md",
-    "Обучение/Java Script/Без названия",
-    "Обучение/GIT/Шпаргалка из 1-го спринта.md"
+    "Обучение/GIT/Ветки.md",
+    "Обучение/Java Script/Валидация нескольких полей и форм.md",
+    "Обучение/Java Script/Связываем JS-методы валидации с DOM.md",
+    "Обучение/Java Script/Валидация с JavaScript.md",
+    "Обучение/Java Script/Встроенная браузерная валидация форм.md",
+    "Обучение/Java Script/Методы reset и submit.md",
+    "Обучение/Java Script/Отправка формы. Событие submit.md",
+    "Обучение/Java Script/Получение элементов форм.md",
+    "Обучение/Java Script/Без названия"
   ]
 }
